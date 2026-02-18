@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 My Tech Stack
 
-<!--
-**foyez94/foyez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend
+- [Astro](https://astro.build/) - For static & non-private dynamic sites with:
+  - [React](https://reactjs.org/) - Component library
+  - [shadcn/ui](https://ui.shadcn.com/) - UI component system
+  - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [TanStack Router](https://tanstack.com/router) - Type-safe routing for apps
 
-Here are some ideas to get you started:
+## Backend
+- [Go (Golang)](https://golang.org/) with [Echo](https://echo.labstack.com/) - High-performance web framework
+- [Python](https://www.python.org/) with [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast API framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Database
+- [PostgreSQL](https://www.postgresql.org/) - Rock-solid relational database (20+ years experience)
+
+## DevOps & Infrastructure
+- [Railway](https://railway.com/) - The easiest app deployment/hosting since Heroku
+- [Cloudflare](https://www.cloudflare.com/) - CDN, security & DNS, workers
+
+### Legacy
+- [Hetzner](https://www.hetzner.com/) - Cloud infrastructure provider
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) - Container orchestration
+- [Portainer](https://www.portainer.io/) - Container management UI
+- [Caddy](https://caddyserver.com/) - Docker proxy & automatic HTTPS
+
+Current trend Docker Swarm / Caddy -> Railway / Cloudflare Workers
+
+## Observability
+- [OpenTelemetry](https://opentelemetry.io/) - Observability framework
+- [Grafana Stack](https://grafana.com/) - Monitoring & visualization
