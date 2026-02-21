@@ -66,6 +66,8 @@ I'm a **Senior Software Engineer** with *9+ years of experience* building scalab
 
 ---
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=foyez94)  
+
 > *“Engineering is as much about solving complexity as it is about building maintainable systems.”*
 
 ---
