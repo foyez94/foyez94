@@ -1,111 +1,79 @@
-# 👋 Abdul Foyez
+<div align="center">
+  <h1>👋 Hi, I’m Abdul Foyez</h1>
+  <p>Senior Software Engineer | Full-Stack & Cloud-Native Architect | Shopify Specialist</p>
+  <!-- GitHub Stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=foyez94&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foyez94&layout=compact&theme=dark" />
+</div>
+
+---
 
 ## 🌟 About Me
 
-👨🏽‍💻 **Senior Software Engineer | Full-Stack Architect | Commerce & Cloud Specialist**
-
-I design and build **scalable, high-availability systems** that operate reliably under real-world production demands.
-
-With *9+ years of experience*, I’ve engineered enterprise-grade applications using **C# / .NET, SQL Server, React, and cloud-native infrastructure**, supporting systems with **100k+ monthly active users**.
-
-Alongside enterprise backend systems, I specialize in **Shopify & Headless Commerce engineering**, delivering custom storefront architectures, complex pricing logic, and deeply integrated commerce platforms.
-
-I operate comfortably across the full stack — from *database tuning and distributed systems design* to *frontend architecture and performance optimization*.
+I'm a **Senior Software Engineer** with *9+ years of experience* building scalable, enterprise-grade systems and modern commerce experiences. I architect robust backend systems, design efficient data workflows, and deliver high-impact full-stack solutions.
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 What I Do
 
-- Design for **scale, failure, and observability**
-- Optimize for **performance before premature abstraction**
-- Prefer **clean architecture & separation of concerns**
-- Build systems that are **maintainable by teams, not individuals**
-- Measure impact through **business and performance metrics**
-
----
-
-## 🚀 Core Expertise
-
-### 🛍️ Shopify & Commerce Engineering
-- Custom Shopify theme architecture (Liquid, JSON templates, app blocks)
-- Shopify Plus extensibility & advanced checkout logic
-- Private & custom Shopify apps (REST / GraphQL)
-- Headless commerce with Next.js & Storefront API
-- Subscription systems & complex pricing models
-- Conversion rate optimization & storefront performance tuning
+- 🏗️ Build **cloud-native distributed systems** with C# / .NET and Kubernetes  
+- 🛍️ Design *Shopify & headless commerce* platforms with theme customizations, app integrations, and storefront APIs  
+- ⚡ Optimize performance at database and application layers  
+- 🧰 Build full-stack applications with **React, Next.js, and TypeScript**  
+- 📊 Design data workflows, ETL pipelines, and data warehouse schemas
 
 ---
 
-### ⚙️ Backend & Distributed Systems
-- **C# / .NET (Framework & .NET Core)** — Enterprise APIs & modular services
-- ASP.NET Web API & MVC architectures
-- Entity Framework & Dapper (high-performance data access)
-- Event-driven systems with Kafka
-- Redis / Sentinel distributed caching
-- RESTful and service-oriented architectures
+## 🚀 Tech Stack
+
+### 🛍️ Shopify & Commerce
+- Shopify Theme Engineering & Plus Customization  
+- Headless Shopify (Next.js / Storefront API)  
+- Custom Apps (REST & GraphQL)  
+- CRO & storefront performance
+
+### ⚙️ Backend
+- C# / .NET (Core & Framework)  
+- ASP.NET Web API, Microservices  
+- Kafka, Redis, Distributed Caching
+
+### 🎨 Frontend
+- React, Next.js, Vue, Nuxt  
+- TypeScript & Tailwind CSS
+
+### 🗄️ Data & Databases
+- MSSQL, PostgreSQL, Couchbase  
+- SSIS, CDC, Star Schema, Power BI
+
+### ☁️ Cloud & DevOps
+- Kubernetes (OpenShift, RKE)  
+- Docker, AWS, Azure  
+- CI/CD & Infrastructure automation
 
 ---
 
-### 🎨 Frontend Engineering
-- React / Next.js (SPA & SSR)
-- Vue.js / Nuxt
-- TypeScript-first development
-- Tailwind CSS & modern UI systems
-- Legacy system modernization (Knockout migrations)
+## 📌 Featured Projects
+
+<!-- Add links to your top repos -->
+- **Project A** — Brief description & tech used  
+- **Project B** — Brief description & tech used  
+- **Project C** — Brief description & tech used
 
 ---
 
-### 🗄️ Data & Performance Engineering
-- Microsoft SQL Server (advanced T-SQL, indexing, query optimization)
-- PostgreSQL production systems
-- Couchbase (NoSQL workloads)
-- SSIS / CDC data pipelines
-- Star Schema data warehouse design
-- Performance tuning across application & database layers
+## 📫 Get In Touch
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+- 💻 Portfolio: https://YOUR_PORTFOLIO  
+- 📧 Email: your.email@example.com
 
 ---
 
-### ☁️ Cloud & Infrastructure
-- Kubernetes (OpenShift, Rancher RKE)
-- Docker containerization
-- AWS & Azure environments
-- Azure DevOps & CI/CD pipelines
-- Linux & Windows server administration
+> *“Engineering is as much about solving complexity as it is about building maintainable systems.”*
 
 ---
 
-## 📊 What I Focus On Today
-
-- Cloud-native architecture & Kubernetes-based deployments
-- Event-driven and distributed systems design
-- Performance engineering for high-traffic applications
-- Scalable headless commerce platforms
-- Data-intensive application design
-
----
-
-## 🏗️ Systems I Enjoy Building
-
-- High-availability enterprise platforms
-- Learning management systems & internal enterprise tools
-- Data warehousing & reporting pipelines
-- Headless eCommerce architectures
-- Modular backend services
-
----
-
-## 📈 Impact Highlights
-
-- Scaled production systems serving **100k+ monthly active users**
-- Improved database performance through deep T-SQL optimization
-- Designed and deployed Kubernetes-based infrastructure
-- Led greenfield system architecture initiatives
-- Built data warehouses powering executive reporting
-
----
-
-## ☕ Beyond Code
-
-I enjoy solving complex architectural problems, mentoring engineers, and refining systems until they perform elegantly under load.
-
-Engineering, to me, is about building systems that are **reliable, understandable, and scalable — long after the first deployment.**
+<div align="center">
+  <!-- Optional Visitor Count -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
+</div>
