@@ -60,19 +60,16 @@ I'm a **Senior Software Engineer** with *9+ years of experience* building scalab
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 💻 Portfolio: https://YOUR_PORTFOLIO  
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdul-foyez-478792259/)](https://www.linkedin.com/in/abdul-foyez-478792259/)  
+- 📧 Email: afoyezdev@gmail.com
 
 ---
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=foyez94)  
 
 > *“Engineering is as much about solving complexity as it is about building maintainable systems.”*
 
 ---
 
-<div align="center">
+<div align="left">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
