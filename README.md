@@ -49,18 +49,9 @@ I'm a **Senior Software Engineer** with *9+ years of experience* building scalab
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Add links to your top repos -->
-- **Project A** — Brief description & tech used  
-- **Project B** — Brief description & tech used  
-- **Project C** — Brief description & tech used
-
----
-
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/abdul-foyez-478792259/)](https://www.linkedin.com/in/abdul-foyez-478792259/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-foyez-478792259/
 - 📧 Email: afoyezdev@gmail.com
 
 ---
