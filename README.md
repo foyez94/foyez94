@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Abdul Foyez</h1>
   <p>Senior Software Engineer | Full-Stack & Cloud-Native Architect | Shopify Specialist</p>
-  <!-- GitHub Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=foyez94&show_icons=true&theme=dark" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foyez94&layout=compact&theme=dark" />
 </div>
 
 ---
