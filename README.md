@@ -1,51 +1,69 @@
 ## 🌟 About Me
 
-- 👨🏽‍💻 I'm a **Senior Software Engineer** with 9+ years of experience building scalable, enterprise-grade applications using **C# / .NET, SQL Server, and modern frontend frameworks**.
-- 🛠️ I craft **custom Shopify themes, sections, and apps**, handle complex app integrations, and build headless storefronts with Next.js and modern tooling.
-- 🏗️ I design and deliver **high-availability systems**, REST APIs, and distributed architectures leveraging **Kubernetes, Kafka, Redis, and cloud infrastructure (AWS/Azure)**.
-- ⚡ Strong focus on **performance optimization**, from rewriting T-SQL stored procedures to optimizing LINQ queries and improving large-scale production workloads (100k+ MAU systems).
-- 🧠 Comfortable across the stack: **React, Next.js, Vue, TypeScript, .NET Core, Entity Framework, Dapper, PostgreSQL, Couchbase, and event-driven systems**.
-- 📊 Experienced in **data warehousing, ETL (SSIS/CDC), and Star Schema design**, turning complex data into actionable insights.
-- ☕ Passionate about clean architecture, scalable system design, and building software that performs under real-world pressure.
+- 👨🏽‍💻 I'm a **Senior Software Engineer** with *9+ years of experience* building **scalable, enterprise-grade systems** using **C# / .NET, SQL Server, and modern frontend frameworks**.
+- 🛍️ I specialize in **Shopify & Headless Commerce**, crafting *custom themes, advanced storefront logic, private apps, and complex integrations* for high-growth brands.
+- 🏗️ I design and deliver **high-availability, cloud-native architectures**, building resilient REST APIs and distributed systems with **Kubernetes, Kafka, Redis, and AWS/Azure**.
+- ⚡ I have a strong focus on **performance optimization**, from deep *T-SQL tuning and query indexing* to optimizing LINQ projections and scaling production systems supporting **100k+ monthly active users**.
+- 🧠 Comfortable across the stack: **React, Next.js, Vue, TypeScript, .NET Core, Entity Framework, Dapper, PostgreSQL, Couchbase**, and event-driven architectures.
+- 📊 Experienced in **data warehousing and ETL (SSIS / CDC)**, designing *Star Schema architectures* and integrating with **Power BI** for actionable insights.
+- ☕ Passionate about **clean architecture, maintainable systems, and building software that performs under real-world pressure**.
 
 ---
 
 ## 🚀 My Tech Stack
 
-### Backend
-- C# / .NET (Framework & .NET Core) - Enterprise-grade APIs, MVC, Razor
-- ASP.NET Web API - High-performance REST services
-- Entity Framework & Dapper - Optimized data access
-- Node.js - Lightweight service integrations
-- Kafka - Event-driven architecture
-- Redis / Sentinel - Distributed caching & HA setups
+### 🛍️ Shopify & Commerce Engineering
+- **Shopify Theme Development** — Liquid, JSON templates, Sections, App Blocks
+- **Shopify Plus Customization** — Advanced checkout extensibility & automation
+- **Custom Shopify Apps** — Private/Custom apps using REST & GraphQL APIs
+- **Headless Shopify** — Storefront API with Next.js architectures
+- Complex pricing models, subscriptions, and third-party integrations
+- **Conversion Rate Optimization (CRO)** & storefront performance tuning
 
-### Frontend
-- TypeScript - Strongly-typed scalable applications
-- React / Next.js - Enterprise SPA & SSR applications
-- Vue.js / Nuxt - Modular frontend architecture
-- HTML5 / CSS3 / Tailwind CSS - Modern UI systems
-- Knockout.js - Legacy modernization & maintenance
+---
 
-### Database & Data Engineering
-- Microsoft SQL Server - Advanced T-SQL, query tuning, indexing
-- PostgreSQL - Production relational workloads
-- Couchbase - Distributed NoSQL database
-- SSIS / CDC - Data pipelines & ETL
-- Star Schema Design - Data warehouse architecture
-- Power BI - Reporting & analytics integration
+### ⚙️ Backend Engineering
+- **C# / .NET (Framework & .NET Core)** — Enterprise APIs, MVC, Razor
+- **ASP.NET Web API** — Scalable RESTful services
+- **Entity Framework & Dapper** — Optimized ORM & micro-ORM data access
+- **Node.js** — Service integrations & lightweight APIs
+- **Kafka** — Event-driven architecture
+- **Redis / Sentinel** — Distributed caching & high availability
 
-### DevOps & Infrastructure
-- Kubernetes (OpenShift, Rancher RKE)
-- Docker
-- AWS
-- Azure DevOps (TFS)
-- JetBrains Space
+---
+
+### 🎨 Frontend Engineering
+- **TypeScript** — Strongly-typed scalable applications
+- **React / Next.js** — Enterprise SPA & SSR systems
+- **Vue.js / Nuxt** — Modular frontend architecture
+- **HTML5 / CSS3 / Tailwind CSS** — Modern UI systems
+- Legacy modernization (Knockout.js migrations)
+
+---
+
+### 🗄️ Database & Data Engineering
+- **Microsoft SQL Server** — Advanced T-SQL, indexing, query optimization
+- **PostgreSQL** — Production relational workloads
+- **Couchbase** — Distributed NoSQL systems
+- **SSIS / CDC** — Data pipelines & ETL workflows
+- **Star Schema Design** — Data warehouse architecture
+- Power BI reporting integration
+
+---
+
+### ☁️ DevOps & Infrastructure
+- **Kubernetes** (OpenShift, Rancher RKE)
+- Docker & containerized deployments
+- **AWS & Azure**
+- Azure DevOps (TFS) & JetBrains Space
 - Linux & Windows Server environments
 
-### Architecture Focus
+---
+
+### 🏗️ Architectural Focus
 - High-availability system design
-- Distributed systems & event-driven architecture
-- Performance optimization (database + application layer)
+- Distributed & event-driven systems
 - Cloud-native deployments
-- Large-scale systems (100k+ MAU production workloads)
+- Data-intensive application architecture
+- Large-scale production workloads (100k+ MAU)
+- Performance-first engineering mindset
